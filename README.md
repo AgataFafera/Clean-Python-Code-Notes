@@ -3,5 +3,5 @@ While going over an Udemy course titled "Python Best Practices: Learn to Write C
 
 Topics covered: 
 
-1) Variable naming best practises
+1) Variable naming best practises.
 
