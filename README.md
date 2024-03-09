@@ -6,4 +6,5 @@ Topics covered:
 1) Variable naming best practises.
 2) Indentation rules and best practises.
 3) Blank lines rules and practises.
+4) Whitespace best practises.
 
