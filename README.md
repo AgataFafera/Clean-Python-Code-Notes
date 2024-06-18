@@ -7,4 +7,5 @@ Topics covered:
 2) Indentation rules and best practises.
 3) Blank lines rules and practises.
 4) Whitespace best practises.
+5) Comments and docstrings best practises.
 
