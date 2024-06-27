@@ -9,4 +9,5 @@ Topics covered:
 4) Whitespace best practises.
 5) Comments and docstrings best practises.
 6) String best practises.
+7) Operators best practises.
 
