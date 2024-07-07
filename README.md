@@ -10,4 +10,5 @@ Topics covered:
 5) Comments and docstrings best practises.
 6) String best practises.
 7) Operators best practises.
+8) Sequences best practises.
 
